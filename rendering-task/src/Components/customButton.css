@@ -1,0 +1,32 @@
+.btn{
+    width: 200px;
+    height: 100px;
+    font-size: 30px;
+}
+
+.mainDiv{
+    margin: auto;
+    position: relative;
+    width: 300px;
+    margin-top: 50px;
+}
+
+.red{
+    background-color: red;
+    color: white;
+}
+
+p{
+    visibility: hidden;
+}
+
+.popUp{
+    background: white;
+    padding: 10px;
+   
+   
+}
+
+.active{
+    visibility: visible;
+}
